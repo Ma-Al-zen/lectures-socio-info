@@ -14,7 +14,7 @@ Florian Jaton, *The Constitution of Algorithms, Ground-Truthing, Programming, Fo
 
 ## 05/12
 
-Paula Bialski, *Middle Tech, Software Work and the Culture of Good Enough* (introduction, chapitre 1, 2, 3)
+Paula Bialski, *Middle Tech, Software Work and the Culture of Good Enough* (introduction, chapitres 2 et 3)
 
 ## 09/01
 
